@@ -1,0 +1,29 @@
+.App {
+	text-align: center;
+}
+.Header {
+	color: #1f1d1d;
+	text-shadow: 4px 3px 3px #fff;
+	font-family: 'Staatliches', cursive;
+	font-size: 3rem;
+}
+
+.btns-container {
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+button {
+	padding: 10px 20px;
+	border: 1px solid black;
+	font-family: 'Staatliches', cursive;
+	color: white;
+	background-color: gray;
+	border-radius: 10px;
+}
+
+.dog-img {
+	width: 500px;
+}

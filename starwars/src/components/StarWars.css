@@ -13,6 +13,7 @@
 	background: rgba(102, 102, 102, 0.692);
 	margin: 10px;
 	border: 2px solid black;
+	border-radius: 4px;
 }
 
 h3 {
